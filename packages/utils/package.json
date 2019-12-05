@@ -1,0 +1,17 @@
+{
+  "name": "@cs/utils",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/utils.js",
+  "module": "dist/utils.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^1.27.8",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}

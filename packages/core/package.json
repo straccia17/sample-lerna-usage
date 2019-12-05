@@ -1,0 +1,20 @@
+{
+  "name": "@cs/core",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/core.js",
+  "module": "dist/core.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^1.27.8",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "dependencies": {
+    "@cs/utils": "^0.0.0"
+  }
+}
