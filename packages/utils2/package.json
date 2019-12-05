@@ -1,9 +1,9 @@
 {
-  "name": "@cs/core",
-  "version": "0.1.1",
+  "name": "@cs/utils2",
+  "version": "0.0.0",
   "description": "",
-  "main": "dist/core.js",
-  "module": "dist/core.js",
+  "main": "dist/utils2.js",
+  "module": "dist/utils2.js",
   "scripts": {
     "build": "rollup -c"
   },
@@ -13,9 +13,5 @@
   "devDependencies": {
     "rollup": "^1.27.8",
     "rollup-plugin-node-resolve": "^5.2.0"
-  },
-  "dependencies": {
-    "@cs/utils": "^0.1.0",
-    "@cs/utils2": "^0.0.0"
   }
 }
