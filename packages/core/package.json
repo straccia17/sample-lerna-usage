@@ -1,6 +1,6 @@
 {
   "name": "@cs/core",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/core.js",
   "module": "dist/core.js",
@@ -15,6 +15,6 @@
     "rollup-plugin-node-resolve": "^5.2.0"
   },
   "dependencies": {
-    "@cs/utils": "^0.0.0"
+    "@cs/utils": "^0.1.0"
   }
 }
