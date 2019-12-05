@@ -1,6 +1,6 @@
 {
   "name": "@cs/core",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "",
   "main": "dist/core.js",
   "module": "dist/core.js",
@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "@cs/utils": "^0.1.0",
-    "@cs/utils2": "^0.0.0"
+    "@cs/utils2": "^0.1.0"
   }
 }
